@@ -1,6 +1,10 @@
 {
   "version": 2,
   "name": "jameswlane.dev",
+  "alias": [
+    "jameswlane.dev",
+    "www.jameswlane.dev"
+  ],
   "builds": [
     {
       "src": "package.json",
