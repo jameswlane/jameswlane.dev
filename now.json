@@ -4,6 +4,12 @@
   "alias": [
     "jameswlane.dev"
   ],
+  "build": {
+    "env": {
+      "GITHUB_TOKEN": "@github-api-token",
+      "NODE_ENV": "production"
+    }
+  },
   "builds": [
     {
       "src": "package.json",
