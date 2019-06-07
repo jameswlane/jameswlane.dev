@@ -13,7 +13,7 @@
     "gatsby-source-filesystem": "2.0.38",
     "gatsby-source-graphql": "2.0.18",
     "gatsby-transformer-sharp": "2.1.21",
-    "nes.css": "2.1.1",
+    "nes.css": "2.2.0",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
